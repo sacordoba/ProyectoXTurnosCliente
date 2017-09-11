@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reserva de Turnos</string>
+
+    <string-array name="especialidades">
+        <item>Clinica General</item>
+        <item>Dermatología</item>
+        <item>Oftamología</item>
+        <item>Cardiología</item>
+        <item>Hematología</item>
+    </string-array>
+</resources>
